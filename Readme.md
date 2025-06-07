@@ -1,19 +1,12 @@
-# Rule-Based Chatbot (Task 1 - CODSOFT AI Internship)
+# Tic-Tac-Toe AI
 
-This is a simple rule-based chatbot built using Python.  
-It responds to user input using predefined rules using if-else statements.
+This is a simple unbeatable Tic-Tac-Toe game using the Minimax algorithm in Python.
 
-## 🔧 Features
+## Features
+- Human vs AI gameplay
+- AI uses Minimax algorithm
+- Unbeatable logic
 
-- Greets the user
-- Provides answers to common questions
-- Responds based on input patterns
-
-## 📁 Files Included
-
-- `chatbot.py` – Main Python script for the chatbot
-- `README.md` – Project description
-
-## ▶️ How to Run
-
-Make sure Python is installed, then open terminal and run:
+## How to Run
+1. Clone the repo or download the code
+2. Run the script:
